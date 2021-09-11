@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.jason</groupId>
-  <artifactId>eureka-sunny</artifactId>
+  <artifactId>springcloud-sunny</artifactId>
   <packaging>pom</packaging>
   <parent>
     <groupId>org.springframework.boot</groupId>
@@ -20,7 +20,7 @@
     <module>eureka-server02</module>
   </modules>
 
-  <name>eureka-sunny</name>
+  <name>springcloud-sunny</name>
 
 
 
