@@ -8,6 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server01" />
+        <module name="service-provider" />
+        <module name="serivce-consumer" />
         <module name="eureka-server02" />
       </profile>
     </annotationProcessing>
@@ -16,6 +18,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="eureka-server01" options="-parameters" />
       <module name="eureka-server02" options="-parameters" />
+      <module name="serivce-consumer" options="-parameters" />
+      <module name="service-provider" options="-parameters" />
     </option>
   </component>
 </project>
