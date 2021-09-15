@@ -1,2 +1,10 @@
-# sc-eureka-sunny
-# sc-eureka-sunny
+###### 微服务实践
+#### 软件版本
+1. JDK 1.8 (build 1.8.0_301-b09)
+2. Maven (apache-maven-3.8.2)
+3. Git
+4. Idea
+5. 待补充...
+
+#### 补充说明
+1. 所有代码及说明仅供学习使用，不作为生产环境级别建议

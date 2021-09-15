@@ -20,6 +20,7 @@
     <module>eureka-server02</module>
     <module>service-provider</module>
     <module>serivce-consumer</module>
+      <module>service-provider02</module>
   </modules>
 
   <name>springcloud-sunny</name>
